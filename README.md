@@ -1,4 +1,4 @@
-# Playstation 4 Special Homebrew Enabler
+# Playstation 4 Homebrew Enabler
 
  PS4 HEN v1.0b14 Coded By Karf5
 
